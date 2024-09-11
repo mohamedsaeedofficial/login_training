@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803673618985",
+    "project_id": "login-training-be71d",
+    "storage_bucket": "login-training-be71d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803673618985:android:5a97bc5a7737989c303a38",
+        "android_client_info": {
+          "package_name": "com.example.login_training"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4nYz5XZYPQOdz9HmIByiMzTTgNYKwh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
